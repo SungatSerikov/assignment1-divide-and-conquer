@@ -8,7 +8,7 @@ import java.util.Random;
 public class Experiment {
 
     private static final int WARMUP_RUNS = 3;
-    private static final int MEASURED_RUNS = 5;
+    private static final int MEASURED_RUNS = 10;
 
     private static final int[] SIZES = {
             1_000,
