@@ -231,7 +231,7 @@ For every configuration:
 
 ```text
 3 JVM warm-up runs
-5 measured runs
+10 measured runs
 ```
 
 The final values are averages of the measured runs.
